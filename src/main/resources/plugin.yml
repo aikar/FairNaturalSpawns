@@ -1,0 +1,8 @@
+name: FairNaturalSpawns
+version: ${project.version}
+main: co.aikar.fairnaturalspawns.FairNaturalSpawns
+api-version: 1.13
+load: STARTUP
+authors: [Aikar]
+description: Balances Natural Spawns so that mob farms don't deprive other users
+website: https://papermc.io
